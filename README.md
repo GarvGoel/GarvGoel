@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GarvGoel
 - 👀 I’m interested in software development roles
 - 🌱 I’m currently learning django framework
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me ....my email ID - garvgoel645@gmail.com 
 
 <!---
